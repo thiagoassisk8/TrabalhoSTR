@@ -8,7 +8,7 @@ Este repositório foi feito para resolução do [**Laboratório 1**]() da matér
 
 A divisão será feito em quatro diretórios e em cada um deles terá um arquivo .md explicando a resolução dos exercícios
 
-* [**ex01**]()
+* [**ex01**](https://github.com/thiagoassisk8/TrabalhoSTR/tree/main/exercicio01)
     - Esta pasta se refere a resolução do **Exercício 1 - Processos**
 * [**ex02**]()
     - Esta pasta se refere a resolução do **Exercício 2 - Comunicação entre Processos**
