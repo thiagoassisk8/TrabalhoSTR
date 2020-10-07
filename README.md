@@ -14,5 +14,5 @@ A divisão será feito em quatro diretórios e em cada um deles terá um arquivo
     - Esta pasta se refere a resolução do **Exercício 2 - Comunicação entre Processos**
 * [**ex03**]()
     - Esta pasta se refere a resolução do **Exercício 3 - *Threads***
-* [**ex04**]()
-    - Esta pasta se refere a resolução do **Exercício - Para Casa**
+
+
