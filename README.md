@@ -2,7 +2,7 @@
 
 # Laboratório 1
 
-**Aluno**: Thiago Silva Assis  **Ra:** 21750975
+Aluno: **Thiago Silva Assis**  Ra: **21750975**
 
 Este repositório foi feito para resolução do [**Laboratório 1**]() da matéria **Sistemas em Tempo Real e Embarcados** do Professor **Aderbal Botelho** na  instituição do UniCeub.
 
